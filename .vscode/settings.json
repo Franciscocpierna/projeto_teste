@@ -1,0 +1,16 @@
+{
+    "paython.paythonPath": "wenv_projeto_teste/script/activate.ps1",
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "python": "wenv_projeto_teste/script/activate.ps1",
+            },
+     "code-runner.ignoreSelection": true,
+     "code-runner.runInTerminal": true,
+     "python.linting.mypyEnabled": true,
+     "python.linting.flake8Enabled": true,
+     "python.testing.unittestEnabled": true,
+     "[python]": {
+           "editor.formatOnSave": true,
+     }
+
+}
