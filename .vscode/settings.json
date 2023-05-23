@@ -1,9 +1,12 @@
 {
-    "paython.paythonPath": "wenv_projeto_teste/script/activate.ps1",
+
+    "python.pythonPath": "venv-projeto_teste/Scripts/Activate.ps1",   
     "code-runner.executorMap": {
         "javascript": "node",
-        "python": "wenv_projeto_teste/script/activate.ps1",
+        "python": "venv-projeto_teste/Scripts/Activate.ps1",       
             },
+          
+         
      "code-runner.ignoreSelection": true,
      "code-runner.runInTerminal": true,
      "python.linting.mypyEnabled": true,
